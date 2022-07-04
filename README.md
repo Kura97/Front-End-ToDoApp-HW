@@ -3,5 +3,5 @@
 ## OUTPUT:
 ![](https://i.imgur.com/tyGElGc.gif)
 
-# labs + homework 
+## labs + homework 
 
